@@ -22,3 +22,5 @@ With GeoTrack, you can find out in just a click.
 
 
 Powered by ip-api.com©
+
+Licensed under GPL v3.0
