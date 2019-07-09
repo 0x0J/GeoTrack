@@ -1,3 +1,6 @@
+#Licensed under GPLv3.0
+#built by 0x0J
+
 import tkinter as tk
 import requests
 import tkinter.font as font
